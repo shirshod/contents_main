@@ -1,5 +1,7 @@
 # Contents
 
+##### (Click on the titles to be redirected to the repository)
+
 ### 1. [Americas COVID Vaccine Dashboard](https://github.com/shirshod/americas_covidvaccine_dashboard):
 The code scrapes, COVID cases, deaths, vaccination data from multiple sources and combines them with economic and demographic data of those countries. 
 
