@@ -30,3 +30,8 @@ By: Shirsho Dasgupta
 The code imports a spreadsheet with a list of zipcodes (in any column) and stores relevant demographic and economic data of those places. 
 
 By: Shirsho Dasgupta
+
+### 6. [Los Angeles County Coroner Scraper](https://github.com/shirshod/la_countycoroner_scraper)
+The code scrapes the L.A. County Coroner's website and stores the details of the deceased into a spreadsheet. 
+
+By: Shirsho Dasgupta
