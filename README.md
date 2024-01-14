@@ -43,13 +43,13 @@ The code imports a spreadsheet with a list of names (in any column), runs each n
 By: Shirsho Dasgupta
 
 
-### 9. [Zipcode Demographics Generator](https://github.com/shirshod/zipcode_demographics_generator):
+### 8. [Zipcode Demographics Generator](https://github.com/shirshod/zipcode_demographics_generator):
 The code imports a spreadsheet with a list of zipcodes (in any column) and stores relevant demographic and economic data of those places. 
 
 By: Shirsho Dasgupta
 
 
-### 8. [Los Angeles County Coroner Scraper](https://github.com/shirshod/la_countycoroner_scraper):
+### 9. [Los Angeles County Coroner Scraper](https://github.com/shirshod/la_countycoroner_scraper):
 The code scrapes the L.A. County Coroner's website and stores the details of the deceased into a spreadsheet. 
 
 By: Shirsho Dasgupta
