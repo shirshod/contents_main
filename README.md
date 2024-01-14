@@ -43,7 +43,7 @@ The code imports a spreadsheet with a list of names (in any column), runs each n
 By: Shirsho Dasgupta
 
 
-### 8. [Zipcode Demographics Generator](https://github.com/shirshod/zipcode_demographics_generator):
+### 9. [Zipcode Demographics Generator](https://github.com/shirshod/zipcode_demographics_generator):
 The code imports a spreadsheet with a list of zipcodes (in any column) and stores relevant demographic and economic data of those places. 
 
 By: Shirsho Dasgupta
