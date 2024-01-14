@@ -2,7 +2,7 @@
 
 ##### (Click on the titles to be redirected to the repository)
 
-### 1. [The Jeffrey Epstein Documents: Named Entity Search](https://github.com/shirshod/epstein_records):
+### 1. [The Jeffrey Epstein Documents — Named Entity Search](https://github.com/shirshod/epstein_records):
 The code in this repository sorts through the court filings from the Jeffrey Epstein-Ghislaine Maxwell lawsuit (that were unsealed and unredacted in January, 2024) and deploys a natural language processing model to create an index of named entities/persons.
 
 By: Shirsho Dasgupta
